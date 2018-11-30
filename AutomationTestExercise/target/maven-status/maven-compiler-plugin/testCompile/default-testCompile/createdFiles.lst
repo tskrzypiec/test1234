@@ -1,0 +1,9 @@
+pl\soflab\PageObjects\CategoryPage.class
+pl\soflab\PageObjects\LandingPage.class
+pl\soflab\AutomationTestExercise\RunnerTest.class
+pl\soflab\PageObjects\LogInPage.class
+stepDefinition\Steps.class
+pl\soflab\PageObjects\ConfirmAccountPage.class
+pl\soflab\PageObjects\AbstractPage.class
+pl\soflab\PageObjects\CreateAnAccountPage.class
+pl\soflab\PageObjects\ProductPage.class
